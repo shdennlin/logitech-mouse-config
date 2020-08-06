@@ -1,0 +1,25 @@
+#+STARTUP: indent
+#+TITLE: Logitech Mouse Button Configuration for Linux
+
+This repository can be used to configure mouse button mappings of a Logitech mouse in Linux.
+
+ 
+** How to Use: 
+   1. install logiops with [[https://github.com/PixlOne/logiops][logiops]]
+   2. clone my setup and install below:
+   #+BEGIN_SRC shell
+     mkdir -p ~/Downloads/logitech-mouse-config
+     git clone https://github.com/shdennlin/logitech-mouse-config.git ~/Downloads/logitech-mouse-config/
+     cd ~/Downloads/logitech-mouse-config/
+     bash install.sh
+   #+END_SRC
+
+** configration Tutorials
+   To see [[https://wiki.archlinux.org/index.php/Logitech_MX_Master][Logitech MX Master]]
+
+** reference 
+   * [[https://github.com/fin-ger/logitech-m720-config][Logitech M720 Button Configuration for Linux]](you can find M720 CID in this)
+   * [[https://github.com/torvalds/linux/blob/master/include/uapi/linux/input-event-codes.h][linux input enevt codes]]
+   * [[https://github.com/PixlOne/logiops][logiops]]
+   * [[https://wiki.archlinux.org/index.php/Logitech_MX_Master][Logitech MX Master]]
+
