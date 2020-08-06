@@ -16,6 +16,15 @@ This repository can be used to configure mouse button mappings of a Logitech mou
 
 ** configration Tutorials
    To see [[https://wiki.archlinux.org/index.php/Logitech_MX_Master][Logitech MX Master]]
+  
+** My System info
+#+BEGIN_SRC shell
+  Distributor ID:	Ubuntu
+  Description:	Ubuntu 20.04.1 LTS
+  Release:	20.04
+  Codename:	focal
+#+END_SRC
+
 
 ** reference 
    * [[https://github.com/fin-ger/logitech-m720-config][Logitech M720 Button Configuration for Linux]](you can find M720 CID in this)
@@ -23,3 +32,5 @@ This repository can be used to configure mouse button mappings of a Logitech mou
    * [[https://github.com/PixlOne/logiops][logiops]]
    * [[https://wiki.archlinux.org/index.php/Logitech_MX_Master][Logitech MX Master]]
 
+
+   
