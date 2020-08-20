@@ -24,13 +24,12 @@ This repository can be used to configure mouse button mappings of a Logitech mou
   Release:	20.04
   Codename:	focal
 #+END_SRC
-
-
 ** reference 
-   * [[https://github.com/fin-ger/logitech-m720-config][Logitech M720 Button Configuration for Linux]](you can find M720 CID in this)
-   * [[https://github.com/torvalds/linux/blob/master/include/uapi/linux/input-event-codes.h][linux input enevt codes]]
-   * [[https://github.com/PixlOne/logiops][logiops]]
-   * [[https://wiki.archlinux.org/index.php/Logitech_MX_Master][Logitech MX Master]]
+   + [[https://github.com/fin-ger/logitech-m720-config][Logitech M720 Button Configuration for Linux]](you can find M720 CID in this)
+   + [[https://github.com/torvalds/linux/blob/master/include/uapi/linux/input-event-codes.h][linux input enevt codes]]
+   + [[https://github.com/PixlOne/logiops][logiops]]
+   + [[https://wiki.archlinux.org/index.php/Logitech_MX_Master][Logitech MX Master]]
 
+      
 
    
