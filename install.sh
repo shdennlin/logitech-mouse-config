@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/bin/bash
 
 sudo cp logid.cfg /etc/
 sudo systemctl restart logid.service
